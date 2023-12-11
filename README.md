@@ -2,7 +2,7 @@
 <br>Article {Public} from Article {Private}
 
 *Original Website:* 
-<br>www.upforcrypto.com
+<br>www.upforcrypto.xyz
 
 **EN**
 
