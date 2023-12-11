@@ -1,9 +1,8 @@
-# Upforcrypto
-Article {Public} from Article {Private}
+**Upforcrypto**
+<br>Article {Public} from Article {Private}
 
-<br>2 sessions: 
 
-# EN 
+**EN**
 
-# ZH or ZH-TW 
-need to be define
+**ZH or ZH-TW**
+<br>need to be define
