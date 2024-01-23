@@ -20,6 +20,12 @@
 
 8. Fed interest rate cuts may be beneficial to DeFi and stable coins
 
+- Since November, an agreement has been reached with US regulators, and the Coin has recorded a net inflow of $4.6 billion
+
+- Due to the failure of the SMS system, some Coin users received SMS for the burst and the upcoming burst
+
+- The joint venture between Cun'an and Gulf Energy began to operate encryption exchanges in Thailand
+
 9. Coin's dynamic summary this week
 
 10. Solana Mobile announces that its second-generation Saga mobile phone is on pre-sale
