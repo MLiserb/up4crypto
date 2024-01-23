@@ -11,9 +11,8 @@
 5. Bitcoin's full network algorithm has been affected by the US tide by 25%
 
 6. Spot ETF ETF Dynamics this week
-
-<br> a. General Manager of JPMorgan Chase: In May, the spot will not be approved by Taifang ETF for more than 50%
-<br> b. TD Cowen: SEC is unlikely to approve spot in the short term ETF
+_ General Manager of JPMorgan Chase: In May, the spot will not be approved by Taifang ETF for more than 50%
+_ TD Cowen: SEC is unlikely to approve spot in the short term ETF
 
 8. Fed interest rate cuts may be beneficial to DeFi and stable coins
 
