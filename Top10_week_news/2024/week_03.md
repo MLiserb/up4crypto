@@ -1,4 +1,6 @@
-# News Top10 this week
+# 
+
+## News Top10 this week
 
 1. Barclays Bank: The Fed is expected to cut interest rates from March
 
@@ -18,7 +20,9 @@
 
 - U.S. SEC postponed Futa’s spot as the ETF’s resolution deadline to March 5
 
-8. Fed interest rate cuts may be beneficial to DeFi and stable coins
+7. Fed interest rate cuts may be beneficial to DeFi and stable coins
+
+8. Coin's dynamic summary this week
 
 - Since November, an agreement has been reached with US regulators, and the Coin has recorded a net inflow of $4.6 billion
 
@@ -26,6 +30,11 @@
 
 - The joint venture between Cun'an and Gulf Energy began to operate encryption exchanges in Thailand
 
-9. Coin's dynamic summary this week
+9. Solana Mobile announces that its second-generation Saga mobile phone is on pre-sale
 
-10. Solana Mobile announces that its second-generation Saga mobile phone is on pre-sale
+10. Musk: Still holding dog coins, SpaceX holding a lot of bitcoins
+
+
+## Key financing events
+
+[] HashKey Group completed nearly $100 million in A round of financing
