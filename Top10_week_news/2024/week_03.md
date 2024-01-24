@@ -38,6 +38,6 @@
 ## Key financing events
 
 [] HashKey Group completed nearly $100 million in A round of financing
-[] Web3 Finance and Tax Consulting and Software Service Provider InTax announced the completion of angel financing [^1]
+[] Web3 Finance and Tax Consulting and Software Service Provider InTax announced the completion of angel financing[^1]
 
 
