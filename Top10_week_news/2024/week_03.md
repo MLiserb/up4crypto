@@ -1,4 +1,4 @@
-# 
+#  Ethereum ETF are not expected to be approved in the short term, and the Fed's interest rate cut is anticipated to be...  
 
 ## News Top10 this week
 
