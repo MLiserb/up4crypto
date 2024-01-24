@@ -37,6 +37,14 @@
 
 ## Key financing events
 
-- [x] HashKey Group completed nearly $100 million in A round of financing
-- [x] Web3 Finance and Tax Consulting and Software Service Provider InTax announced the completion of angel financing
+- [ ] HashKey Group completed nearly $100 million in A round of financing
+- [ ] Web3 Finance and Tax Consulting and Software Service Provider InTax announced the completion of angel financing
+- [ ] Renzo completed $3.2 million in seedwheel financing with Taifang Remand Agreement
+- [ ] Web3 Data Analysis Company 0xScope completed $5 million Pre-Series A round of financing
+- [ ] Decentralized Infrastructure, DePIN Initial Company, raised $11.5 million in round A financing
+- [ ] Canza Finance announced the completion of Polychain’s $2.3 million strategic financing
+- [ ] Encrypted Exchange WOO X received $9 million in financing to be a marketer Wintemute and other participation
+- [ ] Kiln completed $17 million in financing with the Taifang pledge platform and 1kx received
+- [ ] Grayscale BTC ETF liquidity provider Flowdesk completes $50 million in financing
+- [ ] Mobile Game Studio AOFverse completes $3 million in private fundraising, Animoca Ventures
 
