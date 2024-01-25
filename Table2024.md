@@ -25,4 +25,4 @@
 | -20.7  | 1184.9 | TOTAL |
 
 ---
-Source: Coinshare blog report only _(The confirmation can be obtained with all the documents.)_
+Source: Coinshare blog report only _(Data obtained with documents only)_
