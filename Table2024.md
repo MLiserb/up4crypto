@@ -23,3 +23,6 @@
 |   -    |   -    | Bitwise 10 Crypto Index Fund/ |
 | 656    | 1551   | Other |
 | -20.7  | 1184.9 | TOTAL |
+
+---
+Source: Coinshare blog report only _(The confirmation can be obtained with all the documents.)_
