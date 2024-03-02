@@ -17,11 +17,8 @@ XCeption is a platform that offers cutting-edge trading tools and solutions, rev
 
 - **Vision and Innovation**: XCeption is positioned as a trailblazer in the blockchain industry, focusing on innovation, excellence, and forward-thinking strategies under the leadership of figures like SER PT[^1].
 
-In conclusion, XCeption Trading Tools offers a comprehensive suite of innovative solutions designed to empower users in the trading space, with a strong emphasis on security, community engagement, and cutting-edge technology to drive success in the blockchain industry.[^2][^3][^4][^5]
+In conclusion, XCeption Trading Tools offers a comprehensive suite of innovative solutions designed to empower users in the trading space, with a strong emphasis on security, community engagement, and cutting-edge technology to drive success in the blockchain industry.[^2][^3]
 
 [^1]: https://xcepterc.app
-
-[^2]: https://www.coinscan.com/tokens/eth/0x5b3be30117e71ed1fea9485abb6b4c11c71c0d6c
-[^3]: https://www.coinscan.com/tokens/bsc/0x96b29456a613480dad079546baf4f7e9a8995d0e
-[^4]: https://www.youtube.com/watch?v=Rkolebs7tfw
-[^5]: https://youtube.com/channel/UCnsaDQIL8W6YfNRLKibYOdA
+[^2]: https://www.youtube.com/watch?v=Rkolebs7tfw
+[^3]: https://youtube.com/channel/UCnsaDQIL8W6YfNRLKibYOdA
