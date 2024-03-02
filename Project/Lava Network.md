@@ -1,6 +1,5 @@
 # Lava Network: What You Need to Know
 
----
 **Lava Network: Key Information**
 
 Lava Network is a modular data network designed to enhance developers' flexibility and empower them to build across various platforms. Here are some essential points to understand about Lava Network:
