@@ -19,6 +19,6 @@ In summary, Lava Network serves as a crucial infrastructure in the blockchain sp
 **Citations:**
 [^1]: https://revelointel.substack.com/p/lava-network-what-you-need-to-know
 [^2]: https://www.lavanet.xyz
-[3]: https://youtube.com/watch?v=g-ayufobaQw
-[4]: https://youtube.com/watch?v=PztPnw1pcKU
-[5]: https://lavats.com/network-and-connectivity/
+<br>[3]: https://youtube.com/watch?v=g-ayufobaQw
+<br>[4]: https://youtube.com/watch?v=PztPnw1pcKU
+<br>[5]: https://lavats.com/network-and-connectivity/
