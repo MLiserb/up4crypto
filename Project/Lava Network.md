@@ -17,8 +17,8 @@ Lava Network is a modular data network designed to enhance developers' flexibili
 In summary, Lava Network serves as a crucial infrastructure in the blockchain space, offering a dynamic marketplace for developers to access data and RPC services efficiently while promoting decentralization and scalability in the ecosystem.
 
 **Citations:**
-<br>[^1]: https://revelointel.substack.com/p/lava-network-what-you-need-to-know
-<br>[^2]: https://youtube.com/watch?v=g-ayufobaQw
-<br>[^3]: https://www.lavanet.xyz
-<br>[^4]: https://youtube.com/watch?v=PztPnw1pcKU
-<br>[^5]: https://lavats.com/network-and-connectivity/
+[^1]: https://revelointel.substack.com/p/lava-network-what-you-need-to-know
+[^2]: https://youtube.com/watch?v=g-ayufobaQw
+[^3]: https://www.lavanet.xyz
+[^4]: https://youtube.com/watch?v=PztPnw1pcKU
+[^5]: https://lavats.com/network-and-connectivity/
