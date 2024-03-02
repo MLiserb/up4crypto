@@ -14,7 +14,6 @@ Bluefin is a prominent company specializing in payment and data security solutio
 
 In conclusion, Bluefin stands out as a leading provider of payment security technology, offering innovative solutions to protect customer data across industries while prioritizing seamless user experiences and regulatory compliance.
 
-**Citations:**
 [^1]: https://www.bluefin.com/about/
 [^2]: https://www.bluefin.com
 [^3]: https://www.bluefin.com/payment-security/
