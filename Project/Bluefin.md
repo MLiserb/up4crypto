@@ -12,10 +12,10 @@ Bluefin is a prominent company specializing in payment and data security solutio
 
 - **Payment Security Solutions**: Bluefin's payment security technology focuses on omnichannel security solutions that secure point-of-sale payments across different platforms. Their encryption solutions utilize PCI-validated P2PE to protect POS payment data effectively. By encrypting payment information outside the merchant environment, Bluefin reduces PCI scope, simplifies compliance requirements, and enhances brand protection against data breaches[^3].
 
-In conclusion, Bluefin stands out as a leading provider of payment security technology, offering innovative solutions to protect customer data across industries while prioritizing seamless user experiences and regulatory compliance.
+In conclusion, Bluefin stands out as a leading provider of payment security technology, offering innovative solutions to protect customer data across industries while prioritizing seamless user experiences and regulatory compliance.[^4][^5]
 
 [^1]: https://www.bluefin.com/about/
 [^2]: https://www.bluefin.com
 [^3]: https://www.bluefin.com/payment-security/
-<br>[4] https://www.worldwildlife.org/species/bluefin-tuna
-<br>[5] https://www.fisheries.noaa.gov/species/western-atlantic-bluefin-tuna
+[^4]: https://www.worldwildlife.org/species/bluefin-tuna
+[^5]: https://www.fisheries.noaa.gov/species/western-atlantic-bluefin-tuna
