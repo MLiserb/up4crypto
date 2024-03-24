@@ -15,8 +15,6 @@ The Bank of Japan has announced its first interest rate hike in 17 years. The ce
 The Government Pension Investment Fund (GPIF), the world's largest pension fund with assets under management of approximately 225 trillion Japanese yen, has publicly inquired about information regarding Bitcoin to consider diversifying its investment portfolio. The institution currently invests in traditional assets and alternative assets such as stocks, bonds, infrastructure, and real estate. They are seeking to gather basic knowledge about these assets and information on investment cases of overseas pension funds. This initiative aims to prepare for potential future expansion of investments but does not imply a definitive decision to broaden the investment scope.  
 <br>[Source](https://www.bloomberg.co.jp/news/articles/2024-03-19/SAKP1VT0AFB400)
 
-
-
 4. **Bitcoin spot ETF has continued net outflow for four days** 
 
 After experiencing a long period of net inflows, as of the drafting on Friday, the Bitcoin spot ETF has recorded four consecutive days of net outflows. On Thursday, the total net outflows for the Bitcoin spot ETF amounted to $93.85 million. Additionally, the Grayscale (GBTC) ETF witnessed a net outflow of $358 million on the same day, bringing its historical net outflows to $13.63 billion. The BlackRock (iBit) ETF emerged as the ETF with the highest net inflows on the previous day, amounting to $2.33 billion, resulting in a historical total net inflow of $13.32 billion. Currently, the net asset value of the Bitcoin spot ETF stands at $53.76 billion, with an ETF net asset ratio (market value to total Bitcoin market value) of 4.18%. The cumulative net inflows to date amount to $11.32 billion.  
@@ -29,14 +27,14 @@ The investigation by the U.S. Securities and Exchange Commission (SEC) into the 
 On March 21st, Vitalik hosted a press conference in Taipei and declined to answer questions about the recent SEC investigation. When asked about the SEC investigation, Vitalik refused to answer the question and gave the reporter a "long stare." It was noted that the questions at the press conference were collected by an organizer from ETHTaipei, and follow-up questions or clarifications were not possible.
 <br>[Source](https://fortune.com/crypto/2024/03/20/sec-gary-gensler-ethereum-security-commodity-crypto-foundation/)
 
-6. **Beled officially launched its denominated asset fund on the Taifang network** 
+6. **BlackRock has officially launched its tokenized asset fund on the Ethereum network.** 
 
-Beled officially launched its denominated asset fund on the Episcopal network and made a strategic investment in the asset denomination company Securitize. The fund is called BlackRock USD Institutional Digital Liquidity Fund, represented by BUIDL tokens based on block chains, fully supported by cash, U.S. Treasury bonds, and repurchase agreements, and will pay the proceeds daily to the tokens holders through the block chain. Securitize will serve as a transfer agent and denomination platform, while BNY Mellon is the custodian of fund assets.
+BlackRock has officially launched its tokenized asset fund on the Ethereum network and made a strategic investment in the asset tokenization company Securitize. The fund is named the BlackRock USD Institutional Digital Liquidity Fund and is represented by blockchain-based BUIDL tokens. It is fully backed by cash, US treasuries, and repurchase agreements, and will pay daily returns to token holders through blockchain. Securitize will act as the transfer agent and tokenization platform, while BNY Mellon is the custodian of the fund's assets.
 <br>[Source](https://www.coindesk.com/markets/2024/03/20/blackrock-enters-asset-tokenization-race-with-new-fund-on-the-ethereum-network/)
 
-7. **Bloomberg analysts expect this round of spot goods to be rejected by Taifang ETF applications on May 23** 
+7. **The Bloomberg analyst predicts that this round of spot Ethereum ETF applications will be rejected on May 23rd.** 
 
-Bloomberg analyst James Seyffart said that the possibility of spot-based ETF approval in May has become smaller and smaller, and this round is expected to be rejected on May 23 because the US regulator seems to lack Contact potential issuers about these products. Earlier, Seyffart and another Bloomberg analyst Eric Balchunas gave 35% of the approval odds in May. Currently, there are seven issuers wishing to launch the Episcopal Fund: Beled, Fuda, Invesco with Galaxy, Grayscale, VanEck, 21 Shares and Ark, and Hashdex.
+James Seyffart, a Bloomberg analyst, stated that the likelihood of spot Ethereum ETF approval in May is decreasing. He anticipates that this round will ultimately be rejected on May 23 due to apparent lack of engagement between the U.S. regulatory authorities and potential issuers regarding these products. Previously, Seyffart and another Bloomberg analyst, Eric Balchunas, had given a 35% chance of approval for May. Currently, seven issuers are looking to launch Ethereum funds: BlackRock, Fidelity, Invesco with Galaxy, Grayscale, VanEck, 21 Shares, and Ark and Hashdex.  
 <br>[Source](https://fortune.com/crypto/2024/03/13/joe-bidens-latest-budge-proposal-calls-for-a-30-tax-on-crypto-mining/)
 
 8. **The Nigerian High Court orders Binance to disclose all data of its Nigerian users.** 
