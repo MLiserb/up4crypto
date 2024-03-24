@@ -2,7 +2,7 @@
 
 1. **Fed FOMC keeps interest rates unchanged** 
 
-The Fed maintained the benchmark interest rate for the fifth consecutive time in the 5.25%-5.50% range, which is in line with market expectations. The Fed is expected to have a median core PCE expected at 2.6% by the end of 2024, compared with 2.4% previously%. Nine Fed officials are expected to cut interest rates twice or less in 2024.
+The Federal Reserve has maintained the benchmark interest rate unchanged in the range of 5.25% to 5.50% for the fifth consecutive time, aligning with market expectations. The Federal Reserve projects the median core PCE inflation to be 2.6% by the end of 2024, up from the previous forecast of 2.4%. Nine Fed officials expect that there will be two interest rate cuts or fewer in 2024. 
 <br>[Source](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
 
 2. **The Bank of Japan announced the first rate hike in 17 years** 
