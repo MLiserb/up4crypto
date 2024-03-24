@@ -7,23 +7,26 @@ The Federal Reserve has maintained the benchmark interest rate unchanged in the 
 
 2. **The Bank of Japan announced the first rate hike in 17 years** 
 
-The Bank of Japan announced the first rate hike in 17 years. The Bank of Japan raised the benchmark interest rate from -0.1% to 0–0.1%, the first rate increase since 2007, and the eight-year negative interest rate era officially ended, which marked the end of Japan’s monetary easing policy over the past decade. Turn to implement deflation.
-<br>[Source](https://www.47news.jp/10669008.html)
+The Bank of Japan has announced its first interest rate hike in 17 years. The central bank raised the benchmark interest rate from -0.1% to 0–0.1%, marking the first interest rate hike since 2007 and ending an 8-year era of negative interest rates. This signifies Japan's shift away from the past decade's monetary easing policies toward implementing a tighter monetary policy.
+<br>[Source](https://www.47news.jp/10669008.html)  
 
 3. **GPIF, the world's largest pension fund, is collecting information about Bitcoin** 
 
-The Japan’s largest pension fund, the Japan Government’s Pension Investment Fund （GPIF）（ Asset Management Scale of approximately 225 trillion yen）, publicly inquired about bitcoin to consider diversifying the portfolio. The agency has now invested in traditional and alternative assets such as stocks, bonds, infrastructure and real estate. They want to collect basic knowledge about these assets and investment cases of overseas annuity funds. This initiative aims to prepare for possible future investment expansion, but it does not mean that it has been decided to expand the scope of investment.
+The Government Pension Investment Fund (GPIF), the world's largest pension fund with assets under management of approximately 225 trillion Japanese yen, has publicly inquired about information regarding Bitcoin to consider diversifying its investment portfolio. The institution currently invests in traditional assets and alternative assets such as stocks, bonds, infrastructure, and real estate. They are seeking to gather basic knowledge about these assets and information on investment cases of overseas pension funds. This initiative aims to prepare for potential future expansion of investments but does not imply a definitive decision to broaden the investment scope.  
 <br>[Source](https://www.bloomberg.co.jp/news/articles/2024-03-19/SAKP1VT0AFB400)
 
+
+
 4. **Bitcoin spot ETF has continued net outflow for four days** 
-After a long period of net inflow, as of Friday, the Bitcoin spot ETF has continued to flow out for four days. On Thursday, the total net outflow of Bitcoin in stock ETF was US$93.85 million, and the net outflow of gray （G1>ETF GBTC was US$358 million per day. The current net outflow of GBTC history is US$13.63 billion. Yesterday's single-day net inflow of Bitcoin in stock ETF is Beled （BlackRock）ETF IBIT. The single-day net inflow is US$233 million. The current total net inflow of IBIT history is US$13.32 billion. At present, the total net asset value of Bitcoin spot ETF is US$53.76 billion, and the market value of ETF net asset ratio （ is 4.18% higher than the total market value of Bitcoin ）, and the cumulative net inflow in history has reached US$11.32 billion.
+
+After experiencing a long period of net inflows, as of the drafting on Friday, the Bitcoin spot ETF has recorded four consecutive days of net outflows. On Thursday, the total net outflows for the Bitcoin spot ETF amounted to $93.85 million. Additionally, the Grayscale (GBTC) ETF witnessed a net outflow of $358 million on the same day, bringing its historical net outflows to $13.63 billion. The BlackRock (iBit) ETF emerged as the ETF with the highest net inflows on the previous day, amounting to $2.33 billion, resulting in a historical total net inflow of $13.32 billion. Currently, the net asset value of the Bitcoin spot ETF stands at $53.76 billion, with an ETF net asset ratio (market value to total Bitcoin market value) of 4.18%. The cumulative net inflows to date amount to $11.32 billion.  
 <br>[Source](https://www.bloomberg.com/news/articles/2024-03-12/us-cpi-report-february-2024-5-key-takeaways-on-inflation-core-measure)
 
 5. **The SEC of the United States began an investigation after converting from Taifang to POS and took legal action to define it as securities** 
 
-The US Securities and Exchange Commission SEC's investigation of the Episcopal Foundation, headquartered in Switzerland, began shortly after September 2022 when the Episcopal turned to POS's new governance model. The Etai Fang Foundation received the summons in the past few weeks. The US SEC is launching an active legal action to classify Taifang as a securities.
+The investigation by the U.S. Securities and Exchange Commission (SEC) into the Ethereum Foundation, based in Switzerland, began shortly after Ethereum shifted to a new governance model based on Proof of Stake (POS) in September 2022. The Ethereum Foundation has received subpoenas in the past few weeks, and the SEC is actively pursuing legal action to classify Ethereum as a security.
 
-On March 21, Vitalik held a press conference in Taipei to answer questions. Finally, when the reporter consulted the SEC investigation incident that occurred yesterday, Vitalik refused to answer this question and cast a long-term gaze “ on the reporter. DLNEWS stated that the issue of the press conference was collected by an organizer of ETHTaiPei, unable to ask follow-up questions or seek clarification.
+On March 21st, Vitalik hosted a press conference in Taipei and declined to answer questions about the recent SEC investigation. When asked about the SEC investigation, Vitalik refused to answer the question and gave the reporter a "long stare." It was noted that the questions at the press conference were collected by an organizer from ETHTaipei, and follow-up questions or clarifications were not possible.
 <br>[Source](https://fortune.com/crypto/2024/03/20/sec-gary-gensler-ethereum-security-commodity-crypto-foundation/)
 
 6. **Beled officially launched its denominated asset fund on the Taifang network** 
