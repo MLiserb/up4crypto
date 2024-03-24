@@ -1,6 +1,9 @@
 # News Top10 this week
 
 1. Fed FOMC keeps interest rates unchanged
+
+The Fed maintained the benchmark interest rate for the fifth consecutive time in the 5.25%-5.50% range, which is in line with market expectations. The Fed is expected to have a median core PCE expected at 2.6% by the end of 2024, compared with 2.4% previously%. Nine Fed officials are expected to cut interest rates twice or less in 2024.
+
 <br>[Source](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
 
 2. The Bank of Japan announced the first rate hike in 17 years
