@@ -24,9 +24,6 @@ The Mantle Ecosystem, distinct from Manta, is a dynamic network with several key
 
 These projects exemplify the diversity and innovation present in the Mantle Ecosystem, each contributing uniquely to the growth and development of decentralized finance solutions within this dynamic network.
 
-Sources:
-- [4] https://flagship.fyi/outposts/dapps/manteling-your-portfolio-an-insight-into-the-top-mantle-projects/
-
 Citations:
 <br>[1] https://revelointel.substack.com/p/mantle-ecosystem-key-projects-to?isFreemail=true&post_id=141235755&publication_id=1041583&r=296qgr
 <br>[2] https://twitter.com/0xMantleEco
