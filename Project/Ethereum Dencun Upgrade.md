@@ -24,5 +24,6 @@ Citations:
 <br>[1] https://everstake.one/blog/ethereums-dencun-upgrade-key-features-and-market-implications
 <br>[2] https://www.coindesk.com/tech/2024/02/08/ethereum-developers-target-march-13-for-milestone-dencun-upgrade-on-mainnet/
 <br>[3] https://www.grayscale.com/research/reports/ethereums-coming-of-age-dencun-and-eth-2.0
-<br> [^1]: https://zerocap.com/insights/snippets/what-is-the-ethereum-dencun-upgrade/
+
+[^1]: https://zerocap.com/insights/snippets/what-is-the-ethereum-dencun-upgrade/
 <br>[5] https://coincodex.com/article/38398/ethereum-dencun-upgrade/
