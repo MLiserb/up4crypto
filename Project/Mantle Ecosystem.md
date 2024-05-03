@@ -28,8 +28,8 @@ Sources:
 - [4] https://flagship.fyi/outposts/dapps/manteling-your-portfolio-an-insight-into-the-top-mantle-projects/
 
 Citations:
-[1] https://revelointel.substack.com/p/mantle-ecosystem-key-projects-to?isFreemail=true&post_id=141235755&publication_id=1041583&r=296qgr
-[2] https://twitter.com/0xMantleEco
-[3] https://www.mantle.xyz/ecosystem
-[4] https://flagship.fyi/outposts/dapps/manteling-your-portfolio-an-insight-into-the-top-mantle-projects/
-[5] https://www.mantle.xyz
+<br>[1] https://revelointel.substack.com/p/mantle-ecosystem-key-projects-to?isFreemail=true&post_id=141235755&publication_id=1041583&r=296qgr
+<br>[2] https://twitter.com/0xMantleEco
+<br>[3] https://www.mantle.xyz/ecosystem
+<br>[4] https://flagship.fyi/outposts/dapps/manteling-your-portfolio-an-insight-into-the-top-mantle-projects/
+<br>[5] https://www.mantle.xyz
