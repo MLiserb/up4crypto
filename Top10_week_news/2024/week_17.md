@@ -1,17 +1,17 @@
-### **1. BlackRock's spot bitcoin ETF joins exclusive club after 70 straight days of growth  
+### 1. BlackRock's spot bitcoin ETF joins exclusive club after 70 straight days of growth  
 **BlackRock’s spot bitcoin ETF registered net inflows for the 70th straight day, putting the instrument in the top 10 of exchange-traded funds with the longest daily streaks of daily inflows.  
 The fund also appeared to add over $600 million to its AUM on Monday, according to BlackRock’s fund page.  
 [Source](https://www.theblock.co/post/290265/blackrocks-spot-bitcoin-etf-joins-exclusive-club-after-70-straight-days-of-growth?utm_source=twitter&utm_medium=social)
 
-### **2. **Emergent Trend: Is AI computing a threat to Bitcoin mining?**  
+### 2. Emergent Trend: Is AI computing a threat to Bitcoin mining?
 **CoinShares' latest report pointed out that after the Bitcoin halving, miners face a significant increase in costs, with electricity and overall costs almost doubling, and the average Bitcoin production cost is expected to be about $53,000. Mining companies may turn to the field of artificial intelligence and try to reduce costs by optimizing energy costs and mining efficiency, but the potential benefits of investing obsolete computing equipment in the field of AI may be higher. Mining companies such as BitDigital, Hive and Hut 8 have already earned revenue from the AI ​​field.  
 [Source](https://blog.coinshares.com/coinshares-mining-report-update-our-insights-at-the-2024-halving-382089820a07)
 
-### **3. US SEC expected to deny spot ether ETFs next month, industry sources say  
+### 3. US SEC expected to deny spot ether ETFs next month, industry sources say  
 **U.S. issuers and other companies expect the Securities and Exchange Commission (SEC) to reject their applications for Ethereum spot ETFs after meetings with the SEC in recent weeks, four people familiar with the matter said. The four people involved in the meeting said that recent meetings between issuers and the SEC were very one-sided, and agency staff did not discuss substantive details about the proposed products. This is in stark contrast to the intensive and detailed discussions in the weeks before the SEC approved the Bitcoin spot ETF in January.  
 [Source](https://www.reuters.com/markets/us/us-sec-expected-deny-spot-ether-etfs-next-month-industry-sources-say-2024-04-25/)
 
-### **4. Robert F. Kennedy Jr. Vows to Put the US Budget on Blockchain  
+### 4. Robert F. Kennedy Jr. Vows to Put the US Budget on Blockchain  
 **U.S. presidential candidate Robert F. Kennedy Jr. said on Sunday that blockchain technology can play a key role in improving government transparency, calling for a Web3 transformation of the federal budget. Robert Kennedy Jr. said, "I will put the entire U.S. budget on the blockchain so that every American can view every budget item in the entire budget 24 hours a day."  
 [Source](https://decrypt.co/227594/robert-f-kennedy-jr-vows-to-put-the-us-budget-on-blockchain)
 
