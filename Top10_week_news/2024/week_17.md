@@ -1,3 +1,5 @@
+# Top 10 Weekly Crypto News
+
 ### 1. BlackRock's spot bitcoin ETF joins exclusive club after 70 straight days of growth  
 BlackRock’s spot bitcoin ETF registered net inflows for the 70th straight day, putting the instrument in the top 10 of exchange-traded funds with the longest daily streaks of daily inflows.  
 The fund also appeared to add over $600 million to its AUM on Monday, according to BlackRock’s fund page.  
@@ -40,3 +42,26 @@ Morgan Stanley may allow its 15,000 brokers to advise clients to buy spot Bitcoi
 ### 10. a16z crypto CTO Eddy Lazzarin slammed Memecoin  
 a16z crypto CTO Eddy Lazzarin slammed Memecoin: Memecoin changed the views of the public, regulators and entrepreneurs on encrypted currency. At best, it looks like a risky casino. Or a series of false promises to cover up the casino. This deeply affects the behavior of the application, supervision/law and builder. If external factors are considered, it may even be net negative. I am here to build a new network and provide impetus for a fundamentally stronger Internet. In addition to undermining the long-term vision of encrypted currencies that left many of us in this area, Memecoin is not technically interesting.  
 <br>[Source](https://twitter.com/eddylazzarin/status/1783149288471617661)
+
+---
+# Key financing events
+
+- Movement Labs is constructing Apocalypse L2, the team has completed $38 million in financing [link](https://fortune.com/crypto/2024/04/25/movement-labs-funding-polychain-ethereum-monad-blockchain-facebook/)
+- Aligned Layer, developed based on EigenLayer, completed $20 million in A round of financing [link](https://twitter.com/alignedlayer/status/1783410696962691283)
+- BTC Layer2 project BEVM has received investment from Bit Mainland [link](https://twitter.com/BTClayer2/status/1783677379074027716)
+- Bitcoin Runes Analysis Infrastructure SatScreener announced the completion of a US$500,000 seed financing round [link](https://twitter.com/SatScreener/status/1781466391205356017)
+- Bitcoin Eco-Stable Currency Agreement Lambda Finance announced the completion of $1.8 million in angel financing [link](https://twitter.com/lambdafinance/status/1780979081733144859)
+- Shiba Inu raised $12 million in coin financing for development Layer 3 [link](https://www.theblock.co/post/290068/shiba-inu-funding-treat-token-new-blockchain)
+- Streptstream Studio InfiniGods announced the completion of $8 million in A round of financing [link](https://twitter.com/InfiniGods/status/1783118246566113526)
+- CARV completed $10 million in A round of financing, led by Tribe Capital and IOSG Ventures [link](https://venturebeat.com/games/carv-raises-10m-to-build-out-modular-data-layer-for-gaming-and-ai/)
+- Tevaera announced the completion of 5 million US dollars in financial investment received by Laser Digital [link](https://tevaera.com/)
+- Go central AI Development Platform Prime Intellectual announced the completion of $5.5 million in seed wheel financing [link](https://www.primeintellect.ai/blog/introducing-prime-intellect)
+- Wallet developer Turnkey announced the completion of $15 million in A round of financing [link](https://www.coindesk.com/tech/2024/04/23/galaxy-lightspeed-lead-15m-raise-for-turnkey-crypto-wallet-startup-from-former-coinbase-employees/)
+- Shared security project Othentic completed $4 million in seedwheel financing [link](https://twitter.com/0xOthentic/status/1782378684369739781)
+- Financial Technology Startup Midas announced the completion of $45 million in financing, led by Portage [link](https://www.getmidas.com/midasin-kulaklari/midasa-45-milyon-dolarlik-rekor-yatirim-p-38268)
+- Web3 game platform Puffverse announced that it has completed $3 million in financing, led by Animoca Brands [link](https://x.com/Puffverse/status/1783103599612133466)
+- Spotlight completed $2 million in Pre-Seed round financing, Folius Ventures [link](https://www.thestreet.com/crypto/newsroom/onchain-cultural-creative-playground-spotlight-raised-2-million-in-a-pre-seed-round-backed-by-folius-ventures)
+- The Natix network raised $4.6 million in the recent financing round [link](https://www.theblock.co/post/290927/depin-natix-funding-token-airdrop-solana?utm_source=telegram1&utm_medium=social)
+- Anichess announced the completion of $1.8 million in financing, this round was led by Sfermion and Amber Group [link](https://www.animocabrands.com/anichess-raises-usd1800000-to-continue-innovating-chess)
+- Web3 Social Agreement PairedWorld announced the completion of $1.5 million in financing [link](https://beincrypto.com/blackrock-steps-in-real-world-interactions/)
+- BTC Layer2 project BEVM has received investment from Bit Mainland [link](https://twitter.com/BTClayer2/status/1783677379074027716)
