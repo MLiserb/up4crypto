@@ -1,6 +1,6 @@
 # 1 - 52 WEEKS
 
-Week SOP
+Week SOP:
 --- 
 # Top 10 Weekly Crypto News
 
